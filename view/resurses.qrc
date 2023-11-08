@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/front">
+        <file>fronts/Quicksand-Bold.ttf</file>
+        <file>fronts/Quicksand-Medium.ttf</file>
+        <file>fronts/Quicksand-Regular.ttf</file>
+    </qresource>
+</RCC>
